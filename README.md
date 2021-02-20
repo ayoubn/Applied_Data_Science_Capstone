@@ -10,7 +10,7 @@ This Repository consists of _<h2>IBM Data Science Professional Certificate - Cap
 
 :rocket: Battle of Neighbourhood - Week 1 [*Description*]()
 
-:rocket: Battle of Neighbourhood - Week 2 [*Notebook*]()
+:rocket: Battle of Neighbourhood - Week 2 [*Notebook*](https://github.com/ayoubn/Applied_Data_Science_Capstone/blob/main/The%20Battle%20of%20Neighborhoods%20(Week%201).ipynb)
 
 ## Note
 This Repository is for reference only!
