@@ -8,7 +8,9 @@ This Repository consists of _<h2>IBM Data Science Professional Certificate - Cap
 
 :rocket: Segmenting and clustering Neighbourhood in Toronto [*Project 2*](https://github.com/ayoubn/Applied_Data_Science_Capstone/blob/main/Project%202.ipynb)
 
-:rocket: Battle of Neighbourhood - Week 1 [*Project 3*]()
+:rocket: Battle of Neighbourhood - Week 1 [*Description*]()
+
+:rocket: Battle of Neighbourhood - Week 2 [*Analysis*]()
 
 ## Note
 This Repository is for reference only!
